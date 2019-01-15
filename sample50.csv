@@ -1,0 +1,51 @@
+seqid,sentence,swear_label,sentiment_label,swear_words,emotion_words,emotion_score
+0,I was just style for you,0,1,[],"[['just', 0.25, 0.0], ['just', 0.125, 0.0]]",0.072916667
+1,I want to be a marshall,0,1,[],"[['want', 0.125, 0.125], ['want', 0.0, 0.625], ['be', 0.25, 0.125]]",0.003205128
+2, major when I'm older by the way,0,1,[],"[['major', 0.625, 0.0], ['major', 0.0, 0.125], ['major', 0.375, 0.375], ['major', 0.125, 0.375], ['way', 0.125, 0.0]]",0.082544192
+3, died when I ran away pokimane sometimes goes by the name Pokemon thick and that will she was born with the first name a man,0,2,[],"[['go', 0.125, 0.0], ['name', 0.125, 0.0], ['name', 0.0, 0.125], ['name', 0.125, 0.0], ['name', 0.0, 0.125], ['man', 0.125, 0.0]]",-0.006671008
+4, be sure to subscribe and hit that Bell,0,2,[],"[['be', 0.25, 0.125], ['hit', 0.0, 0.125], ['hit', 0.0, 0.125]]",-2.66E-05
+5, phone,0,0,[],[],0
+6,is it going to be like a donut you know,0,1,[],"[['be', 0.25, 0.125], ['know', 0.125, 0.0], ['know', 0.125, 0.0], ['know', 0.375, 0.25], ['know', 0.25, 0.0], ['know', 0.25, 0.0]]",0.026800699
+7, what does a kicker kicked on the type that greasy,0,2,[],[],-0.03125
+8, I'm just making you pretty want to continue streaming on Twitch and then,0,2,[],"[['just', 0.25, 0.0], ['just', 0.125, 0.0], ['want', 0.125, 0.125], ['want', 0.0, 0.625]]",-0.043739371
+9, Untitled go to Japan and study,0,1,[],"[['go', 0.125, 0.0], ['study', 0.25, 0.0]]",0.018055556
+10,hello,0,0,[],[],0
+11, hello,0,0,[],[],0
+12, a boy,0,0,[],"[['boy', 0.0, 0.125]]",0
+13, dancing,0,0,[],[],0
+14,yeah there's definitely something touching the wire,0,1,[],[],0.080555556
+15, but it's definitely something that you wanted,0,1,[],[],0.0875
+16, oh my,0,0,[],[],0
+17,does can you show us the clip of ninja calling you smart your,0,2,[],"[['show', 0.125, 0.0], ['show', 0.125, 0.0]]",-0.073660714
+18, why you get some believe that the sky toes is the best fortnite player in the world Bar None bar none,0,1,[],"[['get', 0.125, 0.0], ['get', 0.5, 0.0], ['get', 0.0, 0.25], ['believe', 0.125, 0.0], ['believe', 0.375, 0.125], ['believe', 0.125, 0.0], ['best', 0.75, 0.0], ['player', 0.125, 0.0], ['player', 0.125, 0.0]]",0.066252671
+19, I have a dollar,0,2,[],"[['have', 0.25, 0.0], ['have', 0.0, 0.25], ['have', 0.0, 0.75], ['dollar', 0.0, 0.125]]",-0.032072368
+20, okay okay I was actually really smart,0,1,[],"[['actually', 0.375, 0.0], ['actually', 0.125, 0.0], ['smart', 0.5, 0.0]]",0.1875
+21,that is my degree at Lord Commander,0,2,[],"[['degree', 0.0, 0.25], ['degree', 0.0, 0.25]]",-0.015453297
+22, are you refusing my order,0,2,[],[],-0.032905983
+23,there's someone inside,0,0,[],[],0
+24, oh my God,0,0,[],[],0
+25, what,0,0,[],[],0
+26,in the kitchen,0,0,[],[],0
+27,do this is the fucking future like I'm laying down and I can see twitch chat right there,1,2,['fucking'],"[['see', 0.125, 0.0], ['see', 0.75, 0.0], ['see', 0.125, 0.0], ['twitch', 0.0, 0.125], ['right', 0.25, 0.0], ['right', 0.0, 0.25]]",-0.008133013
+28, that's crazy. Probably should lay down this,0,2,[],"[['lay', 0.0, 0.125]]",-0.038888889
+29, life and dog mod yet because he,0,2,[],"[['yet', 0.25, 0.0], ['yet', 0.0, 0.625]]",-0.07514881
+30, I need people I thought dogs were loyal but I was proven wrong you know what I mean,0,2,[],"[['need', 0.0, 0.25], ['loyal', 0.5, 0.0], ['wrong', 0.125, 0.75], ['wrong', 0.125, 0.5], ['know', 0.125, 0.0], ['know', 0.125, 0.0], ['know', 0.375, 0.25], ['know', 0.25, 0.0], ['know', 0.25, 0.0], ['mean', 0.375, 0.25]]",-0.024418483
+31, they told me before that you were here and I checked and you weren't and I was like,0,1,[],[],0.013096154
+32,he's trying he's his trolling chat has to be surgery with a hundred bits,0,2,[],"[['chat', 0.0, 0.375], ['be', 0.25, 0.125]]",-0.022066822
+33, whatever happened to the fourth beds,0,2,[],[],-0.028125
+34," after I'm done I'm over wiper so like I'm a folder and a over wiper some people wipe from under, over like her",0,2,[],"[['folder', 0.0, 0.125]]",-0.022836538
+35, I go down here for temps to be satisfied,0,1,[],"[['go', 0.125, 0.0], ['down', 0.0, 0.125], ['down', 0.125, 0.0], ['down', 0.0, 0.5], ['down', 0.0, 0.125], ['be', 0.25, 0.125]]",0.017574786
+36, okay,0,0,[],[],0
+37,free play while playing a bad spiteful,0,2,[],"[['free', 0.375, 0.0], ['free', 0.0, 0.625], ['free', 0.0, 0.625], ['play', 0.125, 0.0], ['play', 0.125, 0.0], ['bad', 0.0, 0.625]]",-0.231109944
+38, you can't play this deck the way I played as that doesn't mean is that just cuz you're bad at this time doesn't mean it's bad don't hate this game don't hate the player okay and I can play this.,0,2,[],"[['play', 0.25, 0.0], ['play', 0.25, 0.0], ['play', 0.5, 0.0], ['play', 0.125, 0.0], ['way', 0.125, 0.0], ['mean', 0.375, 0.25], ['just', 0.25, 0.0], ['just', 0.125, 0.0], ['bad', 0.0, 0.625], ['time', 0.5, 0.0], ['time', 0.75, 0.0], ['mean', 0.375, 0.25], ['bad', 0.0, 0.625], ['hate', 0.0, 0.75], ['game', 0.25, 0.5], ['hate', 0.0, 0.75], ['player', 0.125, 0.0], ['player', 0.125, 0.0], ['play', 0.25, 0.0], ['play', 0.25, 0.0], ['play', 0.5, 0.0], ['play', 0.125, 0.0]]",-0.124387564
+39, Army of the dead army of the Dead speak with me,0,2,[],"[['dead', 0.0, 0.75], ['dead', 0.0, 0.625]]",-0.139705882
+40, going to be a MAC address to me earlier,0,1,[],"[['be', 0.25, 0.125]]",0.00665522
+41, how come I can't talk back but he can,0,0,[],[],0
+42, see he's inside Wall play,0,2,[],"[['see', 0.125, 0.0], ['see', 0.75, 0.0], ['see', 0.125, 0.0], ['play', 0.125, 0.0], ['play', 0.125, 0.0]]",-0.014629289
+43, well played tonight now that the streams on all the sudden you can help me know how to play this deck and you didn't create this I created this okay I want to learn you're such a good player please teach me why would you leave that minion out so I can tell you to kill it anyway,0,1,[],"[['well', 0.375, 0.0], ['well', 0.125, 0.0], ['well', 0.5, 0.0], ['well', 0.375, 0.0], ['well', 0.75, 0.0], ['well', 0.125, 0.0], ['well', 0.625, 0.0], ['well', 0.75, 0.0], ['well', 0.75, 0.0], ['well', 0.625, 0.0], ['well', 0.125, 0.25], ['well', 0.667, 0.333], ['sudden', 0.0, 0.5], ['help', 0.125, 0.0], ['help', 0.25, 0.0], ['know', 0.125, 0.0], ['know', 0.125, 0.0], ['know', 0.375, 0.25], ['know', 0.25, 0.0], ['know', 0.25, 0.0], ['play', 0.25, 0.0], ['play', 0.25, 0.0], ['play', 0.5, 0.0], ['play', 0.125, 0.0], ['create', 0.375, 0.0], ['want', 0.125, 0.125], ['want', 0.0, 0.625], ['good', 0.75, 0.0], ['good', 1.0, 0.0], ['player', 0.125, 0.0], ['player', 0.125, 0.0], ['teach', 0.5, 0.0], ['leave', 0.0, 0.125], ['leave', 0.0, 0.25], ['tell', 0.375, 0.375], ['kill', 0.0, 0.5], ['kill', 0.0, 0.125], ['kill', 0.25, 0.375], ['kill', 0.75, 0.125], ['kill', 0.25, 0.75], ['kill', 0.5, 0.25]]",0.038274279
+44, do I care that he's going to kill it no I don't know no no no no don't blame it on the alcohol limit I created the SEC all by myself,0,2,[],"[['care', 0.375, 0.0], ['kill', 0.0, 0.5], ['kill', 0.0, 0.125], ['kill', 0.25, 0.375], ['kill', 0.75, 0.125], ['kill', 0.25, 0.75], ['kill', 0.5, 0.25], ['know', 0.125, 0.0], ['know', 0.125, 0.0], ['know', 0.375, 0.25], ['know', 0.25, 0.0], ['know', 0.25, 0.0], ['blame', 0.0, 0.25], ['blame', 0.0, 0.375], ['limit', 0.0, 0.125], ['limit', 0.0, 0.25]]",-0.004591589
+45, play when I get to Jana,0,2,[],"[['play', 0.125, 0.0], ['play', 0.125, 0.0], ['get', 0.125, 0.0], ['get', 0.5, 0.0], ['get', 0.0, 0.25]]",-0.005821078
+46, you should know,0,0,[],"[['know', 0.125, 0.0], ['know', 0.125, 0.0], ['know', 0.375, 0.25], ['know', 0.25, 0.0], ['know', 0.25, 0.0]]",0
+47, you should put Oregon do with this big minion,0,1,[],"[['put', 0.125, 0.0]]",0.016239316
+48, I know what I'm doing I'm trying to think,0,1,[],"[['know', 0.125, 0.0], ['know', 0.125, 0.0], ['know', 0.375, 0.25], ['know', 0.25, 0.0], ['know', 0.25, 0.0], ['think', 0.125, 0.0], ['think', 0.0, 0.125], ['think', 0.25, 0.0], ['think', 0.375, 0.0], ['think', 0.375, 0.0], ['think', 0.75, 0.0]]",0.058954934
+49, okay now let me play online,0,1,[],"[['okay', 0.625, 0.0], ['let', 0.0, 0.25], ['play', 0.25, 0.0], ['play', 0.25, 0.0], ['play', 0.5, 0.0], ['play', 0.125, 0.0]]",0.149404762
